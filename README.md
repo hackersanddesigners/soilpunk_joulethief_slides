@@ -1,6 +1,6 @@
 # Soilpunk - Joulethief
 
-## [View the slides here](https://hackersanddesigners.github.io/Soilpunk_technical_setup/html_output/index.html)
+## [View the slides here](https://hackersanddesigners.github.io/soilpunk_joulethief_slides/html_output/index.html) or the [plain text document here](https://github.com/hackersanddesigners/soilpunk_joulethief_slides/blob/master/slides.rst)
 
 ----
 
