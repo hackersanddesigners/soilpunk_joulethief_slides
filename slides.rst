@@ -12,7 +12,7 @@
 Soilpunk - Joulethief
 ======================
 
-This document is viewable as `a webpage <https://github.com/hackersanddesigners/Soilpunk_technical_setup/blob/master/slides.rst>`_ or as `a slideshow <https://hackersanddesigners.github.io/Soilpunk_technical_setup/html_output/index.html>`_
+This document is viewable as `a webpage <https://github.com/hackersanddesigners/soilpunk_joulethief_slides/blob/master/slides.rst>`_ or as `a slideshow <https://hackersanddesigners.github.io/soilpunk_joulethief_slides/html_output/index.html>`_
 
 ----
 
