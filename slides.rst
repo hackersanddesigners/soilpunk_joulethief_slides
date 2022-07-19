@@ -105,9 +105,18 @@ A more detailed explanation can be found on `instructables <https://www.instruct
 
 ----
 
-.. image:: ./assets/images/circuit.png
+Led
+========================
 
+.. image:: ./assets/images/led_polarity.png
+
+Make sure to get the LED polarity right. Short leg goes to ground!
 
 ----
+
+Circuit
+========================
+
+.. image:: ./assets/images/circuit.png
 
 https://github.com/hackersanddesigners/Soilpunk_joulethief
