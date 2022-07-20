@@ -69,8 +69,7 @@ Joulethief
 
 .. image:: ./assets/images/joulethief_3.png
 	
-The increasing amount of electricity through the second coil generates a negative voltage in the first coil.
-An negative voltage is induced in the first coil, which cause the transistor to close. 
+The increasing amount of electricity through the second coil generates a negative voltage in the first coil, which cause the transistor to close. 
 
 ----
 
