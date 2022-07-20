@@ -33,6 +33,8 @@ Transistor
 .. image:: ./assets/images/analogi-transistor-87050130.gif
 	:width: 500
 
+Water analogy: the little bit of water from B to E opens the gate for the bigger flow from C to E
+
 ----
 
 Joulethief
